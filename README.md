@@ -37,23 +37,23 @@ __________________________________________________________________________
 **Junior Business Analyst**           
 Kioti Tractors  
 (_August 2023 - May 2024_)  
-- Crafted Power BI dashboards that saved 100+ hours of efficiency yearly and pioneered daily monitoring  
-- Aggregated data via SQL for monthly market share reports
-- Built ETL pipelines across 6 departments
+- Crafted **Power BI** dashboards that saved 100+ hours of efficiency yearly and pioneered daily monitoring  
+- Aggregated data via **SQL** for monthly market share reports
+- Built **ETL** pipelines across 6 departments
 <!--  • Pioneered daily sales monitoring for company executives to make decisions on quarterly sales programs  -->
 
 **Research Associate**
 PAST Foundation  
 (_July 2022 - July 2023_)  
 - Collected data from 700+ students to validate a STEM Identity instrument
-- Analyzed paired t-tests with Bonferroni adjustment in R  
+- Analyzed paired **t-tests** with Bonferroni adjustment in **R**  
 <!-- to identify significant trends in STEM Identity -->  
 <!-- • Taught JavaScript, Game Design, and Virtual Reality 3D modeling to youth ages 10 – 18-->
 
 __________________________________________________________________________
 
 ## Projects
-### NLP analysis with Unstructured Earnings Calls ([_slide deck_](https://docs.google.com/presentation/d/1CUsx_gHMNNeO195B45ehTEtIM6fHCL4NptkPNdBgieM/edit?usp=sharing))
+**NLP analysis with Unstructured Earnings Calls** ([_slide deck_](https://docs.google.com/presentation/d/1CUsx_gHMNNeO195B45ehTEtIM6fHCL4NptkPNdBgieM/edit?usp=sharing))
 
 <kbd>
   <img src="Pictures/AITextAnalytics.jpg" alt="NLP overview pic"/>
@@ -61,7 +61,7 @@ __________________________________________________________________________
 NLP with web-scraped, unstructured earnings calls across 4 industries. TF-IDF clustering and analyzing AI frequency and sentiment with the Vader package.
 
 
-### NCSU Women's Tennis Dashboard ([_see more_](https://public.tableau.com/app/profile/august.majtenyi/viz/Blue17NCSUTennisDashboard/NCStatePlayerProfiles))
+**NCSU Women's Tennis Dashboard** ([_full dashboard_](https://public.tableau.com/app/profile/august.majtenyi/viz/Blue17NCSUTennisDashboard/NCStatePlayerProfiles))
 <kbd>
   <img src="Pictures/Dashboard.JPG" alt="Tableau dashboard overview pic"/>
 </kbd>
