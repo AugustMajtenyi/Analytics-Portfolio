@@ -30,11 +30,12 @@ Academic Programs International (API)
 **Junior Business Analyst**           
 Kioti Tractors  
 (_August 2023 - May 2024_)  
-• Crafted Power BI dashboards that saved 100+ hours of efficiency yearly and pioneered daily monitoring  
-• Aggregated data via SQL for monthly market share reports  
-• Built ETL pipelines across 6 departments
+Crafted Power BI dashboards that saved 100+ hours of efficiency yearly and pioneered daily monitoring  
+<ul>
+<li>Aggregated data via SQL for monthly market share reports</li>
+<li>Built ETL pipelines across 6 departments</li>
 <!--  • Pioneered daily sales monitoring for company executives to make decisions on quarterly sales programs  -->
-
+</ul>
 **Research Associate**
 PAST Foundation  
 (_July 2022 - July 2023_)  
@@ -46,7 +47,7 @@ PAST Foundation
 
 ## Projects
 ### AI analysis with Unstructured Earnings Calls
-![Project](Pictures/AITextAnalytics.jpg)
+<kbd>![Project](Pictures/AITextAnalytics.jpg)</kbd>
 
 NLP with web-scraped, unstructured earnings calls across 4 industries. TF-IDF clustering and analyzing AI frequency and sentiment with the Vader package.
 
