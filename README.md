@@ -54,7 +54,6 @@ __________________________________________________________________________
 
 ## Projects
 **NLP analysis with Unstructured Earnings Calls** ([_slide deck_](https://docs.google.com/presentation/d/1CUsx_gHMNNeO195B45ehTEtIM6fHCL4NptkPNdBgieM/edit?usp=sharing))
-
 <kbd>
   <img src="Pictures/AITextAnalytics.jpg" alt="NLP overview pic"/>
 </kbd>
