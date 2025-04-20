@@ -39,7 +39,7 @@ Kioti Tractors
 
 **Research Associate**
 PAST Foundation  
-(_July 2022 - July 2023)
+(_July 2022 - July 2023_)
 • Collected data from 700+ students to validate a STEM Identity instrument with IRB approval  
 • Analyzed paired t-tests with Bonferroni adjustment in R to identify significant trends in STEM Identity  
 • Taught JavaScript, Game Design, and Virtual Reality 3D modeling to youth ages 10 – 18  
@@ -62,7 +62,7 @@ _Slide Deck_
 
 Culminated tennis stats over 6 years to visualize 18 requested player metrics
 
-![Dashboard Player Profiles](Dashboard.jpg)
+![Dashboard Player Profiles](Pictures/Dashboard.jpg)
 
 
 
