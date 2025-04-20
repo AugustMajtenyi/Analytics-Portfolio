@@ -4,6 +4,8 @@ Skilled at optimizing business processes, crafting dashboards, and improving fin
 **Technical Skills:** Python, Tableau, SQL and R   
 **Certifications:** PCEP Certified Entry-Level Python Programmer,  
 AWS Certified Cloud Practitioner  
+[**Portfolio Website**](https://augustmajtenyi.github.io/): HTML/CSS/JavaScript website from scratch to host design projects.
+
 
 ## Contact Me 
 **Phone Number:** 919-302-8823  
