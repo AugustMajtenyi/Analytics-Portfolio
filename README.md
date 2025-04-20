@@ -55,21 +55,21 @@ __________________________________________________________________________
 **Simulating Investment Strategies** (for [_early investers_](https://augustmajtenyi.github.io/LifecycleInvesting.html) and [_retirees_](https://docs.google.com/presentation/d/1-zWkbZO2mmfR0C3_16uwTn6SoKVOny2OcJu-i-yGLlY/edit?usp=sharing))
 <kbd>
   <img src="Pictures/20yearsHeld_SP500_82toNow_updated.png" alt="Investing Analysis overview pic"/>
-</kbd>
+</kbd>  
 Used 40+ years of stock data to simulate high-risk investing with LEAPS (12% annualized ROI) as well as low-risk investing with yearly withdrawals (beating the 4% rule). In both cases, I argue for explicit buy/sell planning and consistent market exposure.  
 
 
 **NLP Analysis with Unstructured Earnings Calls** ([_slide deck_](https://docs.google.com/presentation/d/1CUsx_gHMNNeO195B45ehTEtIM6fHCL4NptkPNdBgieM/edit?usp=sharing))
 <kbd>
   <img src="Pictures/AITextAnalytics.jpg" alt="NLP overview pic"/>
-</kbd>
+</kbd>  
 NLP with web-scraped, unstructured earnings calls across 4 industries. Includes TF-IDF clustering as well as analyzing AI frequency and sentiment with the Vader package.
 
 
 **NCSU Women's Tennis Dashboard** ([_full dashboard_](https://public.tableau.com/app/profile/august.majtenyi/viz/Blue17NCSUTennisDashboard/NCStatePlayerProfiles))
 <kbd>
   <img src="Pictures/Dashboard.JPG" alt="Tableau dashboard overview pic"/>
-</kbd>
+</kbd>  
 In collaboration with NCSU coach David Secker, I processed 6 years of tennis stats and visualized 20 requested player metrics. The full dashboard contains 5 pages of different analysis for the indivudal players, leaderboard stats, and WTA points between colleges.
 
 
