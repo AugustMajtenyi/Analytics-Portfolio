@@ -71,7 +71,7 @@ NLP with web-scraped, unstructured earnings calls across 4 industries. Includes 
 <kbd>
   <img src="Pictures/Dashboard.JPG" alt="Tableau dashboard overview pic"/>
 </kbd>
-In colaboration with NCSU coach David Secker, I processed 6 years of tennis stats and visualized 20 requested player metrics. The full dashboard contains 5 pages of different analysis for the indivudal players, leaderboard stats, and WTA points between colleges.
+In collaboration with NCSU coach David Secker, I processed 6 years of tennis stats and visualized 20 requested player metrics. The full dashboard contains 5 pages of different analysis for the indivudal players, leaderboard stats, and WTA points between colleges.
 
 
 
