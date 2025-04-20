@@ -21,7 +21,7 @@ Academic Programs International (API)
 (_August 2024 - Current_)  
 • Developing a Python custom auotomation library with PuLP to optimize housing arrangments   
 • Tuning an XGBoost machine learning model with cross-validation  
-• Validating the model with MAPE and target shuffling
+• Validating the model with MAPE and target shuffling  
 • Utilizing Shapley values to interpret the impact of variables  
 <!-- • Developing our custom automation into a fully functioning library with complete documentation  -->
 <!-- • Web-scraping competitor market data for company directors to evaluate yearly session price changes  -->
