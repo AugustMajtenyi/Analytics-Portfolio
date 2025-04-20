@@ -34,17 +34,16 @@ Academic Programs International (API)
 __________________________________________________________________________
 
 ## Work Experience
-**Junior Business Analyst**           
+**Junior Business Analyst** (_August 2023 - May 2024_)  
 Kioti Tractors  
-(_August 2023 - May 2024_)  
+
 - Crafted **Power BI** dashboards that saved 100+ hours of efficiency yearly and pioneered daily monitoring  
 - Aggregated data via **SQL** for monthly market share reports
 - Built **ETL** pipelines across 6 departments
 <!--  • Pioneered daily sales monitoring for company executives to make decisions on quarterly sales programs  -->
 
-**Research Associate**
+**Research Associate** (_July 2022 - July 2023_)  
 PAST Foundation  
-(_July 2022 - July 2023_)  
 - Collected data from 700+ students to validate a STEM Identity instrument with IRB approval
 - Analyzed paired **t-tests** with Bonferroni adjustment in **R**  
 <!-- to identify significant trends in STEM Identity -->  
@@ -53,6 +52,14 @@ PAST Foundation
 __________________________________________________________________________
 
 ## Projects
+
+**Simulating Investment Strategies** (for [_early investers_](https://augustmajtenyi.github.io/LifecycleInvesting.html) and [_retirees_](https://docs.google.com/presentation/d/1-zWkbZO2mmfR0C3_16uwTn6SoKVOny2OcJu-i-yGLlY/edit?usp=sharing))
+<kbd>
+  <img src="Pictures/20yearsHeld_SP500_82toNow_updated.png" alt="Investing Analysis overview pic"/>
+</kbd>
+Used 40+ years of stock data to simulate high-risk investing with LEAPS (12% annualized ROI) as well as low-risk investing with yearly withdrawals (beating the 4% rule). In both cases, I argue for explicit buy/sell planning and consistent market exposure.  
+
+
 **NLP Analysis with Unstructured Earnings Calls** ([_slide deck_](https://docs.google.com/presentation/d/1CUsx_gHMNNeO195B45ehTEtIM6fHCL4NptkPNdBgieM/edit?usp=sharing))
 <kbd>
   <img src="Pictures/AITextAnalytics.jpg" alt="NLP overview pic"/>
