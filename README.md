@@ -15,18 +15,18 @@ __________________________________________________________________________
 __________________________________________________________________________
 
 ## Education  
-M.S., Analytics | Institute for Advanced Analytics (_May 2025_)  
-B.S., Design | Ohio State University (_May 2021_)  
+M.S., Data Analytics | Institute for Advanced Analytics (_May 2025_)  
+B.S., Industrial Design | Ohio State University (_May 2021_)  
 
 __________________________________________________________________________
 
 ## Practicum  
 **Team Lead** (_August 2024 - Current_)  
 Academic Programs International   
-- Developing a **Python** custom auotomation library with PuLP to optimize housing arrangements   
-- Tuning an XGBoost **machine learning** model with cross-validation  
-- Validating the model with MAPE and target shuffling
-- Utilizing **Shapley values** to interpret the impact of variables  
+- Developed a **Python** custom auotomation library with PuLP to optimize housing arrangements   
+- Tuned an XGBoost **machine learning** model with cross-validation  
+- Validated the model with MAPE and target shuffling
+- Utilized **Shapley values** to interpret the impact of variables  
 <!-- • Developing our custom automation into a fully functioning library with complete documentation  -->
 <!-- • Web-scraping competitor market data for company directors to evaluate yearly session price changes  -->
 
