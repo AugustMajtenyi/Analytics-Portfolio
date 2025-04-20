@@ -10,7 +10,7 @@ __________________________________________________________________________
 **Phone Number:** 919-302-8823  
 **Email:** augustm8@gmail.com  
 **Linkedin:** ([/august-majtenyi](https://www.linkedin.com/in/august-majtenyi/))  
-**Portfolio Website** ([visit](https://augustmajtenyi.github.io/)): Static website from scratch to host design projects
+**Portfolio Website** ([visit](https://augustmajtenyi.github.io/)): Static website to host design projects
 
 __________________________________________________________________________
 
