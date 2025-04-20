@@ -49,7 +49,7 @@ PAST Foundation
 
 
 ### AI analysis with Unstructured Earnings Calls
-[Project](./Pictures/AITextAnalytics.jpg)
+[Project](./Pictures/AITextAnalytics.JPG)
 
 NLP with web-scraped, unstructured earnings calls across 4 industries. TF-IDF clustering and analyzing AI frequency and sentiment with the Vader package.
 
@@ -62,7 +62,7 @@ _Slide Deck_
 
 Culminated tennis stats over 6 years to visualize 18 requested player metrics
 
-![Dashboard Home Page](Pictures/Dashboard.jpg)
+![Dashboard Home Page](Dashboard.jpg)
 _Dashboard Player Profiles_
 
 
