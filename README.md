@@ -38,7 +38,7 @@ Kioti Tractors
 • Built ETL pipelines to identify which warranties were disproportionately rising relative to sales  
 
 **Research Associate**
-PAST Foundation
+PAST Foundation  
 (_July 2022 - July 2023)
 • Collected data from 700+ students to validate a STEM Identity instrument with IRB approval  
 • Analyzed paired t-tests with Bonferroni adjustment in R to identify significant trends in STEM Identity  
@@ -49,7 +49,7 @@ PAST Foundation
 
 
 ### AI analysis with Unstructured Earnings Calls
-[Project](Pictures/AITextAnalytics.jpg)
+[Project](./Pictures/AITextAnalytics.jpg)
 
 NLP with web-scraped, unstructured earnings calls across 4 industries. TF-IDF clustering and analyzing AI frequency and sentiment with the Vader package.
 
