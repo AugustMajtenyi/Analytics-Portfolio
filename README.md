@@ -1,7 +1,7 @@
 # Aspiring Data Scientist
 Skilled at optimizing business processes, crafting dashboards, and improving financial decisions.
 
-**Technical Skills:** Python, Tableau, SQL and R   
+**Technical Skills:** Python, SQL, Power BI, Tableau, and R   
 **Certifications:** PCEP Entry-Level Python, AWS Cloud Practitioner  
 
 __________________________________________________________________________
@@ -9,8 +9,8 @@ __________________________________________________________________________
 ## Contact Me  
 **Phone Number:** 919-302-8823  
 **Email:** augustm8@gmail.com  
-**Linkedin:** ([link](https://www.linkedin.com/in/august-majtenyi/))  
-**Portfolio Website** ([link](https://augustmajtenyi.github.io/)): Static website from scratch to host design projects
+**Linkedin:** ([/august-majtenyi](https://www.linkedin.com/in/august-majtenyi/))  
+**Portfolio Website** ([visit](https://augustmajtenyi.github.io/)): Static website from scratch to host design projects
 
 __________________________________________________________________________
 
