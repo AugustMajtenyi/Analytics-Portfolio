@@ -19,7 +19,7 @@ B.S., Design | Ohio State University (_May 2021_)
 **Team Lead**  
 Academic Programs International (API)   
 (_August 2024 - Current_)  
-• Automating a housing selector tool in Python with PuLP optimization to enhance customer experience
+• Automating a housing selector tool in Python with PuLP optimization to enhance customer experience  
 • Tuning an XGBoost machine learning model with cross-validation to forecast housing prices  
 • Validating the housing cost model with a MAPE better than 99.9% of target shuffling alternatives  
 • Utilizing Shapley values to interpret the five most relevant contributors to global housing costs  
