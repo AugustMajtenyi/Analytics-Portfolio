@@ -3,6 +3,7 @@ Skilled at optimizing business processes, crafting dashboards, and improving fin
 
 **Technical Skills:** Python, Tableau, SQL and R   
 **Certifications:** PCEP Entry-Level Python, AWS Cloud Practitioner  
+
 __________________________________________________________________________
 
 ## Contact Me  
@@ -10,11 +11,13 @@ __________________________________________________________________________
 **Email:** augustm8@gmail.com  
 **Linkedin:** ([link](https://www.linkedin.com/in/august-majtenyi/))  
 **Portfolio Website** ([link](https://augustmajtenyi.github.io/)): Static website from scratch to host design projects
+
 __________________________________________________________________________
 
 ## Education  
 M.S., Analytics | Institute for Advanced Analytics (_May 2025_)  
 B.S., Design | Ohio State University (_May 2021_)  
+
 __________________________________________________________________________
 
 ## Practicum  
@@ -46,6 +49,7 @@ PAST Foundation
 - Analyzed paired t-tests with Bonferroni adjustment in R  
 <!-- to identify significant trends in STEM Identity -->  
 <!-- • Taught JavaScript, Game Design, and Virtual Reality 3D modeling to youth ages 10 – 18-->
+
 __________________________________________________________________________
 
 ## Projects
