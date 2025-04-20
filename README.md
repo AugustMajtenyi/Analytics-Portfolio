@@ -64,14 +64,14 @@ Used 40+ years of stock data to simulate high-risk investing with LEAPS (12% ann
 <kbd>
   <img src="Pictures/AITextAnalytics.jpg" alt="NLP overview pic"/>
 </kbd>
-NLP with web-scraped, unstructured earnings calls across 4 industries. TF-IDF clustering and analyzing AI frequency and sentiment with the Vader package.
+NLP with web-scraped, unstructured earnings calls across 4 industries. Includes TF-IDF clustering as well as analyzing AI frequency and sentiment with the Vader package.
 
 
 **NCSU Women's Tennis Dashboard** ([_full dashboard_](https://public.tableau.com/app/profile/august.majtenyi/viz/Blue17NCSUTennisDashboard/NCStatePlayerProfiles))
 <kbd>
   <img src="Pictures/Dashboard.JPG" alt="Tableau dashboard overview pic"/>
 </kbd>
-In colaboration with NCSU coach David Secker, I processed 6 years of tennis stats and visualized 20 requested player metrics.
+In colaboration with NCSU coach David Secker, I processed 6 years of tennis stats and visualized 20 requested player metrics. The full dashboard contains 5 pages of different analysis for the indivudal players, leaderboard stats, and WTA points between colleges.
 
 
 
