@@ -49,7 +49,7 @@ PAST Foundation
 
 
 ### AI analysis with Unstructured Earnings Calls
-![Project](./DigitalPortfolio/Pictures/AITextAnalytics.jpg)
+![Project](DigitalPortfolio/Pictures/AITextAnalytics.jpg)
 
 NLP with web-scraped, unstructured earnings calls across 4 industries. TF-IDF clustering and analyzing AI frequency and sentiment with the Vader package.
 
