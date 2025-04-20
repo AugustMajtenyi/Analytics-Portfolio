@@ -3,7 +3,7 @@ Skilled at optimizing business processes, crafting dashboards, and improving fin
 
 **Technical Skills:** Python, Tableau, SQL and R   
 **Certifications:** PCEP Entry-Level Python Programmer, AWS Cloud Practitioner  
-**Portfolio Website** ([link](https://augustmajtenyi.github.io/)): Static website from scratch to host design projects.
+**Portfolio Website** ([link](https://augustmajtenyi.github.io/)): Static website from scratch to host design projects
 
 
 ## Contact Me 
