@@ -20,10 +20,10 @@ B.S., Design | Ohio State University (_May 2021_)
 Academic Programs International (API)   
 (_August 2024 - Current_)  
 • Automating a housing selector tool in Python with PuLP optimization to enhance customer experience
-<!-- • Developing our custom automation into a fully functioning library with complete documentation  -->
 • Tuning an XGBoost machine learning model with cross-validation to forecast housing prices  
 • Validating the housing cost model with a MAPE better than 99.9% of target shuffling alternatives  
 • Utilizing Shapley values to interpret the five most relevant contributors to global housing costs  
+<!-- • Developing our custom automation into a fully functioning library with complete documentation  -->
 <!-- • Web-scraping competitor market data for company directors to evaluate yearly session price changes  -->
 
 ## Work Experience
@@ -31,9 +31,9 @@ Academic Programs International (API)
 Kioti Tractors  
 (_August 2023 - May 2024_)  
 • Crafted Power BI dashboards that saved 100+ hours of efficiency yearly across 6 departments for daily monitoring
-<!--  • Pioneered daily sales monitoring for company executives to make decisions on quarterly sales programs  -->
 • Aggregated data via SQL for monthly vendor reports to calculate market share across North America  
 • Built ETL pipelines to identify which warranties were disproportionately rising relative to sales  
+<!--  • Pioneered daily sales monitoring for company executives to make decisions on quarterly sales programs  -->
 
 **Research Associate**
 PAST Foundation  
