@@ -35,7 +35,7 @@ Kioti Tractors
 (_August 2023 - May 2024_)  
 - Crafted Power BI dashboards that saved 100+ hours of efficiency yearly and pioneered daily monitoring  
 - Aggregated data via SQL for monthly market share reports
-- Built ETL pipelines across 6 departments</li>
+- Built ETL pipelines across 6 departments
 <!--  • Pioneered daily sales monitoring for company executives to make decisions on quarterly sales programs  -->
 
 **Research Associate**
