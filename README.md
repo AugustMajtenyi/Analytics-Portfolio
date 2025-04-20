@@ -21,9 +21,8 @@ B.S., Design | Ohio State University (_May 2021_)
 __________________________________________________________________________
 
 ## Practicum  
-**Team Lead**  
-Academic Programs International (API)   
-(_August 2024 - Current_)  
+**Team Lead** (_August 2024 - Current_)  
+Academic Programs International   
 - Developing a **Python** custom auotomation library with PuLP to optimize housing arrangements   
 - Tuning an XGBoost **machine learning** model with cross-validation  
 - Validating the model with MAPE and target shuffling
