@@ -3,18 +3,19 @@ Skilled at optimizing business processes, crafting dashboards, and improving fin
 
 **Technical Skills:** Python, Tableau, SQL and R   
 **Certifications:** PCEP Entry-Level Python, AWS Cloud Practitioner  
-
+_____________________________________
 
 ## Contact Me  
 **Phone Number:** 919-302-8823  
 **Email:** augustm8@gmail.com  
 **Linkedin:** ([link](https://www.linkedin.com/in/august-majtenyi/))  
 **Portfolio Website** ([link](https://augustmajtenyi.github.io/)): Static website from scratch to host design projects
-
+_____________________________________
 
 ## Education  
 M.S., Analytics | Institute for Advanced Analytics (_May 2025_)  
 B.S., Design | Ohio State University (_May 2021_)
+_____________________________________
 
 ## Practicum  
 **Team Lead**  
@@ -26,6 +27,7 @@ Academic Programs International (API)
 - Utilizing Shapley values to interpret the impact of variables  
 <!-- • Developing our custom automation into a fully functioning library with complete documentation  -->
 <!-- • Web-scraping competitor market data for company directors to evaluate yearly session price changes  -->
+_____________________________________
 
 ## Work Experience
 **Junior Business Analyst**           
@@ -43,7 +45,7 @@ PAST Foundation
 - Analyzed paired t-tests with Bonferroni adjustment in R  
 <!-- to identify significant trends in STEM Identity -->  
 <!-- • Taught JavaScript, Game Design, and Virtual Reality 3D modeling to youth ages 10 – 18-->
-
+_____________________________________
 
 ## Projects
 ### NLP analysis with Unstructured Earnings Calls ([_slide deck_](https://docs.google.com/presentation/d/1CUsx_gHMNNeO195B45ehTEtIM6fHCL4NptkPNdBgieM/edit?usp=sharing))
@@ -52,8 +54,6 @@ PAST Foundation
   <img src="Pictures/AITextAnalytics.jpg" alt="NLP overview pic"/>
 </kbd>
 NLP with web-scraped, unstructured earnings calls across 4 industries. TF-IDF clustering and analyzing AI frequency and sentiment with the Vader package.
-
-
 
 
 ### NCSU Women's Tennis Dashboard ([_see more_](https://public.tableau.com/app/profile/august.majtenyi/viz/Blue17NCSUTennisDashboard/NCStatePlayerProfiles))
