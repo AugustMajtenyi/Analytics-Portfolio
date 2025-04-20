@@ -49,7 +49,7 @@ PAST Foundation
 
 
 ### AI analysis with Unstructured Earnings Calls
-[Project](Pictures/AITextAnalytics.JPG)
+![Project](Pictures/AITextAnalytics.JPG)
 
 NLP with web-scraped, unstructured earnings calls across 4 industries. TF-IDF clustering and analyzing AI frequency and sentiment with the Vader package.
 
@@ -58,7 +58,7 @@ _Slide Deck_
 
 
 ### NCSU Women's Tennis Dashboard
-[Dashboard](https://public.tableau.com/app/profile/august.majtenyi/viz/Blue17NCSUTennisDashboard/NCStatePlayerProfiles)
+![Dashboard](https://public.tableau.com/app/profile/august.majtenyi/viz/Blue17NCSUTennisDashboard/NCStatePlayerProfiles)
 
 Culminated tennis stats over 6 years to visualize 18 requested player metrics
 
