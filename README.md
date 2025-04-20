@@ -39,7 +39,7 @@ Kioti Tractors
 
 **Research Associate**
 PAST Foundation  
-(_July 2022 - July 2023_)
+(_July 2022 - July 2023_)  
 • Collected data from 700+ students to validate a STEM Identity instrument with IRB approval  
 • Analyzed paired t-tests with Bonferroni adjustment in R to identify significant trends in STEM Identity  
 • Taught JavaScript, Game Design, and Virtual Reality 3D modeling to youth ages 10 – 18  
