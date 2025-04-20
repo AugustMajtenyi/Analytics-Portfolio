@@ -16,7 +16,7 @@ AWS Certified Cloud Practitioner
 
 ## Practicum  
 **Team Lead**  
-Academic Programs International (API)  
+Academic Programs International (API)   
 (_August 2024 - Current_)  
 • Automating a housing selector tool in Python with PuLP optimization to enhance customer experience  
 • Developing our custom automation into a fully functioning library with complete documentation  
@@ -28,8 +28,8 @@ Academic Programs International (API)
 
 ## Work Experience
 **Junior Business Analyst**           
-Kioti Tractors
-(_August 2023 - May 2024_)
+Kioti Tractors  
+(_August 2023 - May 2024_)  
 • Crafted Power BI dashboards that saved 100+ hours of efficiency yearly across 6 departments  
 • Pioneered daily sales monitoring for company executives to make decisions on quarterly sales programs  
 • Aggregated data via SQL for monthly vendor reports to calculate market share across North America  
@@ -47,7 +47,7 @@ PAST Foundation
 
 
 ### AI analysis with Unstructured Earnings Calls
-[Project](AITextAnalytics.jpg)
+[Project](Pictures/AITextAnalytics.jpg)
 
 NLP with web-scraped, unstructured earnings calls across 4 industries. TF-IDF clustering and analyzing AI frequency and sentiment with the Vader package.
 
@@ -60,7 +60,7 @@ _Slide Deck_
 
 Culminated tennis stats over 6 years to visualize 18 requested player metrics
 
-![Dashboard Home Page](Dashboard.jpg)
+![Dashboard Home Page](Pictures/Dashboard.jpg)
 _Dashboard Player Profiles_
 
 
