@@ -8,7 +8,7 @@ Skilled at optimizing business processes, crafting dashboards, and improving fin
 ## Contact Me  
 **Phone Number:** 919-302-8823  
 **Email:** augustm8@gmail.com  
-**Linkedin:** [https://www.linkedin.com/in/august-majtenyi/](https://www.linkedin.com/in/august-majtenyi/)  
+**Linkedin:** ([link](https://www.linkedin.com/in/august-majtenyi/))  
 **Portfolio Website** ([link](https://augustmajtenyi.github.io/)): Static website from scratch to host design projects
 
 
