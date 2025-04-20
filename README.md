@@ -30,7 +30,7 @@ Academic Programs International (API)
 **Junior Business Analyst**           
 Kioti Tractors  
 (_August 2023 - May 2024_)  
-• Crafted Power BI dashboards that saved 100+ hours of efficiency yearly across 6 departments for daily monitoring
+• Crafted Power BI dashboards that saved 100+ hours of efficiency yearly across 6 departments for daily monitoring  
 • Aggregated data via SQL for monthly vendor reports to calculate market share across North America  
 • Built ETL pipelines to identify which warranties were disproportionately rising relative to sales  
 <!--  • Pioneered daily sales monitoring for company executives to make decisions on quarterly sales programs  -->
