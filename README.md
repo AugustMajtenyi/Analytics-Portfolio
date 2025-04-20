@@ -1,4 +1,4 @@
-# August Majtenyi
+# Aspiring Data Scientist
 Skilled at optimizing business processes, crafting dashboards, and improving financial decisions.
 
 **Technical Skills:** Python, Tableau, SQL and R   
@@ -12,7 +12,7 @@ Skilled at optimizing business processes, crafting dashboards, and improving fin
 **Linkedin:** [https://www.linkedin.com/in/august-majtenyi/](https://www.linkedin.com/in/august-majtenyi/)  
 
 ## Education 
-M.S., Analytics | Institute for Advanced Analytics (_May 2025_)
+M.S., Analytics | Institute for Advanced Analytics (_May 2025_)  
 B.S., Design | Ohio State University (_May 2021_)
 
 ## Practicum  
@@ -44,8 +44,6 @@ PAST Foundation
 
 
 ## Projects
-
-
 ### AI analysis with Unstructured Earnings Calls
 ![Project](Pictures/AITextAnalytics.jpg)
 
