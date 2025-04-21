@@ -4,4 +4,4 @@ description: 3 years work experience in Research/Analytics
 show_downloads: no
 theme: jekyll-theme-minimal
 include:
-- custom.css
+  - custom.css
