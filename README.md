@@ -80,5 +80,6 @@ In collaboration with NCSU coach David Secker, I processed 6 years of tennis sta
   </kbd>
 </a>  
 <small>(_click image for closer look_)</small>  
-Analyzing public data from the USDA and CDC to identify food deserts. Census-tract data from 2010 and 2015 were visualized with GeoPandads and Matplotlib. This project includes an EBM model that predicts populations having low food access, also clustering analysis within high-need cities.
+Analyzing public data from the USDA and CDC to identify food deserts. Census-tract data from 2010 and 2015 were visualized with GeoPandas and Matplotlib. This project includes an EBM model that predicts populations having low food access, also clustering analysis within high-need cities.
+
 
