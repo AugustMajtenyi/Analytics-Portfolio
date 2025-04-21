@@ -6,6 +6,7 @@
   display: none !important;
 }
 
+/* For testing, the pink background */
 body {
-  background-color: pink !important;
+  background-color: red !important;
 }
