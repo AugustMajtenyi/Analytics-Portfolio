@@ -54,7 +54,7 @@ PAST Foundation
 
 __________________________________________________________________________
 
-## Projects
+## Analytics Projects
 
 **Simulating Investment Strategies** (for [_early investers_](https://augustmajtenyi.github.io/LifecycleInvesting.html) and [_retirees_](https://docs.google.com/presentation/d/1-zWkbZO2mmfR0C3_16uwTn6SoKVOny2OcJu-i-yGLlY/edit?usp=sharing))
 <kbd>
