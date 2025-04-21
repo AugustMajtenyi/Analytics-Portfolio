@@ -3,7 +3,7 @@ layout: default
 ---
 
 <style>
-  @import url('custom.css');
+  @import url('/custom.css');
 </style>
 
 # Aspiring Data Scientist
