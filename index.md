@@ -1,7 +1,10 @@
+---
+layout: default
+---
+
 <style>
   @import url('/custom.css');
 </style>
-
 
 # Aspiring Data Scientist
 Skilled at optimizing business processes, crafting dashboards, and improving financial decisions.
