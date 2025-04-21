@@ -1,8 +1,3 @@
 .site-footer {
   display: none !important;
 }
-
-/* For testing, the pink background */
-body {
-  background-color: gray !important;
-}
