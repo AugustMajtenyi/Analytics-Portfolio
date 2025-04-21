@@ -7,7 +7,7 @@ layout: default
 </style>
 
 # Aspiring Data Scientist
-Skilled at optimizing business processes, crafting dashboards, and improving financial decisions. (test2)
+Skilled at optimizing business processes, crafting dashboards, and improving financial decisions. (test3)
 
 **Technical Skills:** Python, SQL, Power BI, Tableau, and R   
 **Certifications:** PCEP Entry-Level Python, AWS Cloud Practitioner  
