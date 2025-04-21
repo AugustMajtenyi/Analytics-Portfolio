@@ -3,11 +3,11 @@ layout: default
 ---
 
 <style>
-  @import url('/custom.css');
+  @import url('custom.css');
 </style>
 
 # Aspiring Data Scientist
-Skilled at optimizing business processes, crafting dashboards, and improving financial decisions.
+Skilled at optimizing business processes, crafting dashboards, and improving financial decisions. (test)
 
 **Technical Skills:** Python, SQL, Power BI, Tableau, and R   
 **Certifications:** PCEP Entry-Level Python, AWS Cloud Practitioner  
