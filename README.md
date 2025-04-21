@@ -73,4 +73,9 @@ NLP with web-scraped, unstructured earnings calls across 4 industries. Includes 
 In collaboration with NCSU coach David Secker, I processed 6 years of tennis stats and visualized 20 requested player metrics. The full dashboard contains 5 pages of different analysis for the indivudal players, leaderboard stats, and WTA points between colleges.
 
 
+**Analyzing Census Data** ([_repository_](https://public.tableau.com/app/profile/august.majtenyi/viz/Blue17NCSUTennisDashboard/NCStatePlayerProfiles))
+<kbd>
+  <img src="Pictures/Phoenix Population Lacking Health Insurance.png" alt="Geographic analysis overview pic"/>
+</kbd>
+Analyzing public data from the USDA and CDC to justify reasonable locations for a new food assistance program. Census-tract data from 2010 and 2015 were visualized with GeoPandads and Matplotlib. This project includes a boosting model that predicts the likelihood of a food desert and clustering analysis within high-need cities.
 
