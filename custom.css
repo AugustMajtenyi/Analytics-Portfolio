@@ -1,12 +1,8 @@
-.github-link {
-  display: none !important;
-}
-
 .site-footer {
   display: none !important;
 }
 
 /* For testing, the pink background */
 body {
-  background-color: red !important;
+  background-color: gray !important;
 }
