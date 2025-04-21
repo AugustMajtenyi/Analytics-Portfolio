@@ -1,7 +1,3 @@
----
-layout: default
----
-
 <style>
   @import url('custom.css');
 </style>
