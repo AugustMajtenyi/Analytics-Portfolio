@@ -73,7 +73,7 @@ NLP with web-scraped, unstructured earnings calls across 4 industries. Includes 
 In collaboration with NCSU coach David Secker, I processed 6 years of tennis stats and visualized 20 requested player metrics. The full dashboard contains 5 pages of different analysis for the indivudal players, leaderboard stats, and WTA points between colleges.
 
 
-**Analyzing Census Data** ([_repository_](https://public.tableau.com/app/profile/august.majtenyi/viz/Blue17NCSUTennisDashboard/NCStatePlayerProfiles))
+**Analyzing Census Data** ([_repository_](https://public.tableau.com/app/profile/august.majtenyi/viz/Blue17NCSUTennisDashboard/NCStatePlayerProfiles))  
 <a href="Pictures/Phoenix Population Lacking Health Insurance.png" target="_blank">
   <img src="Pictures/Phoenix Population Lacking Health Insurance.png" alt="Geographic analysis overview pic" style="max-height: 300px;" />
 </a>
