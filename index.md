@@ -2,7 +2,7 @@
   @import url('custom.css');
 </style>
 
-# Data Scientist
+# Business Analyst
 Skilled at optimizing business processes, crafting dashboards, and improving financial decisions.  
 
 **Technical Skills:** Python, SQL, Power BI, Tableau, and R   
